@@ -1,11 +1,4 @@
 abc new note created 
 
 +
-+
-`
-`
-`
-`
-`
-
-`
+00000
